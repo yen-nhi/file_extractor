@@ -1,0 +1,16 @@
+
+# To translate text
+deep-translator==1.11.4
+
+# To export image file
+Pillow==10.1.0
+
+# To manipulate pdf file
+PyMuPDF==1.23.6
+
+# To manipulate Powerpoint file
+python-pptx==0.6.23
+
+# Tp create a command line interface
+typer==0.9.0
+
