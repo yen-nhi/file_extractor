@@ -22,10 +22,10 @@ cli.py contains the command line interface app
 git clone https://github.com/yen-nhi/file_extractor.git
 ```
 ### Step 2: inside the project directory
-- Make sure you have virtualenv, pip installed. If you don't have, install by
+- Make sure you have pip, virtualenv installed. If you don't have, install by
 ```
-python3 -m pip install virtualenv
-python3 -m pip install --upgrade pip
+sudo apt install python3-pip
+pip install virtualenv
 ``` 
 
 - Create a virtual environment  
