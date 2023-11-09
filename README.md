@@ -2,6 +2,9 @@
 ## main.py 
 main.py contains the script to automate tasks with pdf and pptx
 
+## cli.py
+cli.py contains the command line interface app
+
 ## Output
 ### images folder
 - images contains all the images that was extracted from pdf file and pptx file in order from top to bottom.
